@@ -1,7 +1,7 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
 ######By: Mohit Kumar Pandey, Pritish Sahu, Jung Choe, Kevin Shu
-Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
+Check out our website: [Team Blog Page](https://cgf1524rutgers.wordpress.com/ "Wordpress")
 
 ![alt text](teamLogo.png)
 
