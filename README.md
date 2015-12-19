@@ -1,4 +1,4 @@
-#Group Name
+#CG-F15-24-Rutgers
 ######Unity Projects - CG Fall 2015 @ Rutgers
 ######By: Mohit Kumar Pandey, Pritish Sahu, Jung Choe, Kevin Shu
 Check out our website: [Team Blog Page](https://cgf1524rutgers.wordpress.com/ "Wordpress")
